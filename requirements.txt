@@ -1,3 +1,4 @@
 fastai
+fastbook
 voila
 ipywidgets
